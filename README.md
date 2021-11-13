@@ -19,4 +19,4 @@ https://medium.com/@ridwanibraheem1/data-engineering-and-analytics-with-snowflak
 
 ## Streaming Visuals
 
-<img src= "Tableau Visualization".png" />
+<img src= "Tableau Visualization".png />
