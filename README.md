@@ -11,7 +11,7 @@ https://medium.com/@ridwanibraheem1/data-engineering-and-analytics-with-snowflak
 
 ## Architecture Diagram 
 
-<img src="Architecture Diagram.png" /> 
+
 
 ## Data Model
 
