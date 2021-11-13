@@ -8,3 +8,15 @@ To learn more about this project, here is a link to the blog post I wrote in det
 
 https://medium.com/@ridwanibraheem1/data-engineering-and-analytics-with-snowflake-matillion-tableau-d379b914d15a
 
+
+## Architecture Diagram 
+
+<img src="Architecture Diagram.png" /> 
+
+## Data Model
+
+<img src="Data Model.png" />
+
+## Streaming Visuals
+
+<img src= "Tableau Visualization".png" />
